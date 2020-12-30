@@ -1,2 +1,2 @@
 # Quantum-Training
-Store useful Quantum resources
+Useful Quantum resources
